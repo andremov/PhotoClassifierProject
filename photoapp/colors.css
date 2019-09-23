@@ -1,0 +1,99 @@
+
+.color-bkg-charcoal {
+    background-color: #36454f;
+    color: white;
+}
+
+.color-charcoal {
+    color: #36454f;
+}
+
+.color-bkg-glaucous {
+    background-color: #6082b6;
+    color: white;
+}
+
+.color-glaucous {
+    color: #6082b6;
+}
+
+.color-bkg-french-blue {
+    background-color: #0072bb;
+    color: white;
+}
+
+.color-french-blue {
+    color: #0072bb;
+}
+
+.color-bkg-han-blue {
+    background-color: #446ccf;
+    color: white;
+}
+
+.color-han-blue {
+    color: #446ccf;
+}
+
+.color-bkg-lapis-lazuli {
+    background-color: #26619c;
+    color: white;
+}
+
+.color-lapis-lazuli {
+    color: #26619c;
+}
+
+.color-bkg-medium-electric-blue {
+    background-color: #035096;
+    color: white;
+}
+
+.color-medium-electric-blue {
+    color: #035096;
+}
+
+.color-bkg-medium-persian-blue {
+    background-color: #0067a5;
+    color: white;
+}
+
+.color-medium-persian-blue {
+    color: #0067a5;
+}
+
+.color-bkg-oxford-blue {
+    background-color: #002147;
+    color: white;
+}
+
+.color-oxford-blue {
+    color: #002147;
+}
+
+.color-bkg-prussian-blue {
+    background-color: #003153;
+    color: white;
+}
+
+.color-prussian-blue {
+    color: #003153;
+}
+
+.color-bkg-charcoal.lighter {
+    background-color: #556d7c;
+    color: white;
+}
+
+.color-charcoal.lighter {
+    color: #556d7c;
+}
+
+.color-bkg-charcoal.darker {
+    background-color: #212b31;
+    color: white;
+}
+
+.color-charcoal.darker {
+    color: #212b31;
+}

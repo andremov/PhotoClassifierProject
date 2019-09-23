@@ -2,13 +2,36 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Hello World!</title>
+        <title>Photo Classification</title>
         <!-- https://electronjs.org/docs/tutorial/security#csp-meta-tag -->
         <meta http-equiv="Content-Security-Policy" content="script-src 'self';" />
         <link href="style.css" rel="stylesheet" />
+        <link href="colors.css" rel="stylesheet" />
     </head>
-    <body>
-    <h1>Hello World!</h1>
 
+    <body class="color-bkg-charcoal darker">
+    <div class="title-bar">
+        <div class="menu-button-container">
+            <button id="menu-button" class="menu-button"></button>
+        </div>
+        <div class="app-name-container">
+            <p>App Name</p>
+        </div>
+        <div class="window-controls-container">
+            <button id="minimize-button" class="minimize-button"></button>
+            <button id="min-max-button" class="min-max-button"></button>
+            <button id="close-button" class="close-button"></button>
+        </div>
+    </div>
+        <div class="title-bar color-bkg-charcoal">
+            <div class="menu">
+                <div class="text">Open</div>
+                <div class="border-vertical"></div>
+                <div class="text">Close</div>
+                <div class="border-vertical"></div>
+            </div>
+            <div class="border-horizontal color-bkg-charcoal lighter">
+            </div>
+        </div>
     </body>
 </html>
